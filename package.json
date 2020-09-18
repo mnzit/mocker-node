@@ -1,0 +1,22 @@
+{
+  "name": "node-proy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fast-gateway": "^2.5.0",
+    "fast-proxy": "^1.7.0",
+    "helmet": "^4.1.1",
+    "node-request-interceptor": "^0.5.1",
+    "pump": "^3.0.0",
+    "restana": "^4.7.3"
+  }
+}
